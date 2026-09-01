@@ -1,9 +1,0 @@
-name = "adhd-research-databank-api"
-main = "src/index.js"
-compatibility_date = "2025-01-01"
-
-# Set this to the raw GitHub URL of data/adhd_research_master.csv in your
-# actual repo, e.g.:
-# https://raw.githubusercontent.com/<your-username>/<your-repo>/main/data/adhd_research_master.csv
-[vars]
-GITHUB_RAW_CSV_URL = "https://raw.githubusercontent.com/ScrabbleBuddha/ADHDDatabank/main/data/adhd_research_master.csv"
