@@ -1,0 +1,6 @@
+name = "adhd-general-reading-api"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+GITHUB_RAW_CSV_URL = "https://raw.githubusercontent.com/ScrabbleBuddha/ADHDDatabank/main/data/general_reading_master.csv"
